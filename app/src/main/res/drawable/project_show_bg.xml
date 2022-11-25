@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--建立圖形-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    單一圖形顏色-->
+    <solid android:color="#f7a705"/>
+<!--    圖形圓角-->
+    <corners android:bottomLeftRadius="100dp"/>
+</shape>
